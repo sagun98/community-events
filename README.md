@@ -1,4 +1,4 @@
-## Community Events:
+## Community Events (Cheat sheet):
 
 ### MLAB setup (Remote mongodb Database)  
 - #### Create account in `mlab.com` and new user.  
