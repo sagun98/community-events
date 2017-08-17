@@ -1,3 +1,4 @@
+
 ## Community Events (Cheat sheet):
 
 ### MLAB setup (Remote mongodb Database)  
@@ -20,3 +21,4 @@
 - ### Before hitting npm install, first change the dependency of bcrypt to bcryptjs and update the version of it.
 
 commit
+
